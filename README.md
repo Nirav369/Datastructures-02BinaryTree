@@ -1,0 +1,2 @@
+# Datastructures-02BinaryTree
+write a program to input twenty integers into a tree.  The program should print out the inorder, preorder and postorder traversals for the tree indicating the LEVEL of each node as it is printed out.  In addition to that there should be statements indicating : The number of leaves in the tree The number of nodes with only one child The number of nodes with two children The maximum and minimum leaf levels The height of the tree Also indicate if the tree is balanced
